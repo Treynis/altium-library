@@ -15,7 +15,10 @@
     * ic-mcu
     * ic-memory
     * ic-power-module
-    * ic-power-supply
+    * ic-power-controller
+	* ic-power-linear-reg
+	* ic-power-switchmode
+	* ic-power-voltage-references
     * ic-sensor
     * capacitor
     * resistor
