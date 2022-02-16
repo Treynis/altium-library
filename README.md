@@ -27,7 +27,7 @@
     * inductor
     * transformer
     * transistor
-    * optoisolator
+    * optoelectronics
     * oscilator
     * module
     * connector
