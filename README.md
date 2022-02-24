@@ -11,6 +11,7 @@
     * ic-fpga
     * ic-gate-driver
     * ic-interface
+	* ic-analog-interface
     * ic-logic
     * ic-mcu
     * ic-memory
