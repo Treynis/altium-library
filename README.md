@@ -33,6 +33,7 @@
     * module
     * connector
 	* mechanical
+	* pads
 
 >
 
