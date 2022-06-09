@@ -34,6 +34,7 @@
     * connector
 	* mechanical
 	* pads
+	* relays
 
 >
 
