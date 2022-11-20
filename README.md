@@ -21,6 +21,7 @@
 	* ic-power-switchmode
 	* ic-power-voltage-references
     * ic-sensor
+	* batteries
     * capacitor
     * resistor
     * diode
