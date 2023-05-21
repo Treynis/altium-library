@@ -48,6 +48,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=switches.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GDEOKJSA
+
+[Document2]
 DocumentPath=fuses.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -64,7 +81,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VCJZLUOW
 
-[Document2]
+[Document3]
 DocumentPath=electromechanics.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -81,7 +98,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LSTRMLLP
 
-[Document3]
+[Document4]
 DocumentPath=standard-case.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -98,7 +115,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KABGVIMN
 
-[Document4]
+[Document5]
 DocumentPath=custom-case.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
