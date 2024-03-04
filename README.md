@@ -7,6 +7,7 @@
     >
     * ic-adc-dac-dds
     * ic-amplifier
+	* ic-сlock
     * ic-comparator
     * ic-fpga
     * ic-gate-driver
